@@ -39,10 +39,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐   
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
-
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
+Made with emotions by **Reeju** _
+�
